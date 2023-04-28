@@ -11,7 +11,7 @@
   * Publisher(s): O'Reilly Media, Inc.
   * ISBN: 9781098104030
 
-* **Fundamentals of Machine Learning for Predictive Data Analytics** by John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy [MIT-Press](https://mitpress.mit.edu/books/fundamentals-machine-learning-predictive-data-analytics)
+* **Fundamentals of Machine Learning for Predictive Data Analytics** by John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy
   * Hardcover: ISBN 9780262029445, 624 pp., July 2015
   * eBook:  ISBN 9780262331722, 624 pp., July 2015
 
