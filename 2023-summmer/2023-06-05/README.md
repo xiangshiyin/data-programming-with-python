@@ -11,6 +11,7 @@ Here are the topics we are going to cover
 * High level overview of the course
 * Coding environment set up and demo
   * Past demo: [Lauching Jupyter](https://www.youtube.com/watch?v=MuCePGhLI9A)
+  * Detailed information on environment set up can be found [here](https://github.com/xiangshiyin/data-programming-with-python/blob/main/2023-summmer/2023-06-05/code_environment.md)
 * Python basics
   * Basic data structures
 * Application topic
