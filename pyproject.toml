@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "data-programming-with-python"
+version = "0.1.0"
+description = "MSA8010 @ GSU"
+authors = ["Xiangshi Yin <piupiuyin@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_programming_with_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

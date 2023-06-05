@@ -2,6 +2,7 @@
 - [data-programming-with-python](#data-programming-with-python)
 - [Schedule](#schedule)
 - [Textbook](#textbook)
+- [Latex in VSCode](#latex-in-vscode)
 
 
 # data-programming-with-python
@@ -24,3 +25,5 @@
   * Publisher(s): O'Reilly Media, Inc.
   * ISBN: 9781098125974
 
+# Latex in VSCode
+* [reference](https://github.com/James-Yu/LaTeX-Workshop/wiki/Install#installation-and-basic-settings)
