@@ -19,7 +19,7 @@ Here are the topics we are going to cover
   * Python libraries
 
 ## Course materials
-* slides [TBD]
+* slides [[link](https://docs.google.com/presentation/d/1UF08GCyXmzFoVMEF3AgVwiKXOyKlmS_2llJUS5_Huks/edit#slide=id.p)]
 
 # Suggested reading
 * [If available] Chapter 1-3 of **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** (3rd Edition by Wes McKinney)
