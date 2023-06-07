@@ -25,5 +25,5 @@ Here are the topics we are going to cover
 * Online resources
   * `list` [[link](https://www.geeksforgeeks.org/python-lists/)]
   * `tuple` [[link](https://www.geeksforgeeks.org/python-tuples/)]
-  * Differences and Applications of List, Tuple, Set and Dictionary in Python [link]
+  * Differences and Applications of List, Tuple, Set and Dictionary in Python [[link](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)]
 
