@@ -15,7 +15,7 @@ Here are the topics we are going to cover
 * Functions
 
 ## Course materials
-* slides [[TBD](https://docs.google.com/presentation/d/1T8cfUbD1nhGtIAzM6uJuLPAcYzCAfCs5q_4XgVkFQPM/edit#slide=id.p)]
+* slides [[link](https://docs.google.com/presentation/d/1T8cfUbD1nhGtIAzM6uJuLPAcYzCAfCs5q_4XgVkFQPM/edit#slide=id.p)]
 
 # Suggested reading
 * [If available] Chapter 3 of **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** (3rd Edition by Wes McKinney)
