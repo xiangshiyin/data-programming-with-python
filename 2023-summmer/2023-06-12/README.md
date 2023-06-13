@@ -1,5 +1,9 @@
 
-
+**Table of Contents**
+- [Lecture 03: Python Crash Course (p3)](#lecture-03-python-crash-course-p3)
+  - [Topics](#topics)
+  - [Course materials](#course-materials)
+- [Suggested reading](#suggested-reading)
 
 # Lecture 03: Python Crash Course (p3)
 
