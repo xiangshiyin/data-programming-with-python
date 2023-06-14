@@ -27,4 +27,5 @@ Here are the topics we are going to cover
   * Publisher(s): O'Reilly Media, Inc.
   * ISBN: 9781098104030
 * Online resources
-  * TBD
+  * Numpy quickstart [[link](https://numpy.org/doc/stable/user/quickstart.html)]
+  * Numpy: the absolute basics for beginners [[link](https://numpy.org/doc/stable/user/absolute_beginners.html)]
