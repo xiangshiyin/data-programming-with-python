@@ -9,4 +9,4 @@
 |   03    | 2023-06-12 | Python Crash Course (p3) | [link](./2023-06-12/) |
 |   04    | 2023-06-14 | Numpy and Linear Algebra | [link](./2023-06-14/) |
 |    -    | 2023-06-19 | No Class (Juneteenth)    | -                     |
-|   05    | 2023-06-21 | Numpy and Linear Algebra | [link](./2023-06-21/) |
+|   05    | 2023-06-21 | Pandas and Dataframe     | [link](./2023-06-21/) |
