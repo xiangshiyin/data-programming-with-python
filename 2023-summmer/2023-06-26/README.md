@@ -16,5 +16,7 @@ Here are the topics we are going to cover
 * slides [TBD]
 
 # Suggested reading
-* [If available] Chapter 5 of **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** (3rd Edition by Wes McKinney)
+* [If available] Chapter 6-8 of **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** (3rd Edition by Wes McKinney)
 * Online resources
+  * TBD
+ 
