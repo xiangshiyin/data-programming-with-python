@@ -46,40 +46,37 @@
 
 ## Suggested Topics (check attachment for relevant data and info)
 
-### Proj01. Real estate price prediction [[link](./proj01-real-state-sale-price-prediction/)]
-* Suggested analysis: 
-    * Analyze the residental home prices in Ames, Iowa with the provided dataset, see if you could find any attributes that could impact the housing prices
-    * Create a model to predict the housing sales price based on the given attributes
-    * Evaluate your model, provide metrics on the model accuracy
+### Project 01. US real estate market trend
+* The US real estate market has shown some interesting trends since Covid hit in early 2020. Find some open source datasets and apply some data analysis, see if you can find any interesting insights in pricing, inventories, listing ages, geo-locations, etc. You can either analyze the whole US market or pick several metro areas (such as the metro Atlanta area) for your analysis.
+* Suggested data source: 
+  * Open source dataset from Redfin [[link](https://www.redfin.com/news/data-center/)]
+* Feel free to explore and use other open source datasets if you like
 
-### Proj02. Insurance cost prediction [[link](./proj02-insurance-cost-prediction/)]
-* Suggested analysis:
-    * Analyze the data on 1338 individuals' insurance cost and their corresponding personal information, see if there is any attributes that could impact individual's insurance cost
-    * Create a model to predict the insurance cost based on the given attributes
-    * Evaluate your model, provide metrics on the model accuracy
+### Project 02: US job market trend
+* Take a look at the open sourced dataset on employment and job openings from the [US bureau of labor statistics](https://www.bls.gov/data/) and see if you can find any interesting trends, such as
+  * The overall trend in earnings in the past 3 years since Covid hit, are there any differences across different industry sectors?
+  * What kind of job is getting the most increase in earning in the past 3 years?
+  * What kind of job is getting the most demand in the past 3 years?
+* Feel free to explore and use other open source datasets if you like
 
-### Proj03. Soccer player database exploration [[link](./proj03-soccer-player-database/)]
-* Suggested analysis
-    * Analyze the data, see if you could find any attributes that are strongly impacting the players' potential and value
-    * See if you could build a model to predict players' market value or potential
-    * See if there is any common features among the top 50 players in market value
+### Project 03: Crime report data from the Atlanta Police Department
+* Utilize the open source dataset shared by the Atlanta Police Department, see if you can find any interesting patterns in crime cases, such as region, time, crime type, etc. The dataset also contains latitude/longitude information, so there is also a chance to create some awesome visualizations on geo-locations!
+* Data source: https://opendata.atlantapd.org/
 
-### Proj04. 2016 primary data [[link](./proj04-2016-primary/)]
-* Suggested analysis
-    * Analyze the 2016 Democratic/Republican primary voting result, profile the counties/states/regions where Trump and Clinton won, see if you could find any pattern or clue.
-    * See if you could build a model to help explain pattern you observed
+### Project 04: Air quality data from OpenAQ
+* Analyze the air quality data from OpenAQ and air pollution trend over time and by countries/regions
+* Data source:
+  * The recommended way to get the air quality data is via the official API, with which you could fetch data by location, time frame, and parameters. Official doc on the API can be found [here](https://docs.openaq.org/docs/getting-started). This might be a little challenging since you need to figure out the appropriate way to fetch the data from the API following the [official documentation](https://docs.openaq.org/docs/getting-started)
+  * If you have a google/gmail account, you could also sign up for free google cloud access and get a sample data from OpenAQ in the bigquery table `bigquery-public-data.openaq.global_air_quality` under the `bigquery-public-data` catalog. This could also be challenging since you would need to figure out a way to let Python script talk to BigQuery on Google Cloud and submit queries in order to fetch the dataset you need.
 
-### Proj05. COVID-19 data analysis [[link](./proj05-covid19/)]
-This is more of an open question
-* Suggested analysis
-    * Check the general trend of COVID case numbers over time in US and the world
-    * Profile the cases by demographic information like age, gender, race, region, etc. Check if there is any skewness in the case distribution on certain profiles.
-    * Visualization on the insights you extracted from the data
-* Suggested dataset
-    * Case stats by country and time: https://ourworldindata.org/coronavirus-source-data
-    * City of Chicago data on cases, deaths, and hospitalizations: https://healthdata.gov/dataset/covid-19-daily-cases-deaths-and-hospitalizations
-    * CDC covid data tracker: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/
-    * NIH open-access data: https://datascience.nih.gov/covid-19-open-access-resources
+### Project 05: Soccer player dataset analysis
+* Analyze the FIFA23 data 
+  * see if you could find any attributes that are strongly impacting the players' potential and value
+  * See if you could build a model to predict players' market value or potential
+  * See if there is any common features among the top 50 players in market value
+* Data source:
+  * Official FIFA players dataset hosted on Kaggle [[link](https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database)]
+
 
 ### Other Data Sources
 * `Google Data Search`: https://datasetsearch.research.google.com/
