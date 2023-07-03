@@ -1,11 +1,11 @@
 
 **Table of Contents**
-- [Lecture 07: Statistics with Python](#lecture-07-statistics-with-python)
+- [Lecture 08: Data Visualization](#lecture-08-data-visualization)
   - [Topics](#topics)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 
-# Lecture 07: Statistics with Python
+# Lecture 08: Data Visualization
 
 ## Topics
 Here are the topics we are going to cover

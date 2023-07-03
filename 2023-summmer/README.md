@@ -12,3 +12,4 @@
 |   05    | 2023-06-21 | Pandas and Dataframe       | [link](./2023-06-21/) |
 |   06    | 2023-06-26 | Pandas Data Table Exercise | [link](./2023-06-26/) |
 |   07    | 2023-06-26 | Statistics with Python     | [link](./2023-06-28/) |
+|   08    | 2023-07-03 | Data Visualization         | [link](./2023-07-03/) |
