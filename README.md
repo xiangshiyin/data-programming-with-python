@@ -26,7 +26,7 @@
   * ISBN: 9781098125974
 * An Introduction to Statistical Learning, with Application in Python
   * Published July 5, 2023 [[link](https://hastie.su.domains/)]
-  * The lab section of each chapter is implemented in Python. The resources link on the book homepage www.statlearning.com provides jupyter notebooks of these labs as well.
+  * The lab section of each chapter is implemented in Python. The resources link on the book homepage www.statlearning.com provides jupyter notebooks of these labs as well [[resources](https://www.statlearning.com/resources-python)]
 
 # Latex in VSCode
 * [reference](https://github.com/James-Yu/LaTeX-Workshop/wiki/Install#installation-and-basic-settings)
