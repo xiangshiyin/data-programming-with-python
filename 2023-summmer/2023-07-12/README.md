@@ -13,7 +13,7 @@ Here are the topics we are going to cover
 * Brief introduction to decision tree and tree based models
 
 ## Course materials
-* slides [[link](https://docs.google.com/presentation/d/1kPCUuqjDd64xLJ8A6CIrh6QZIpNNeNSnsUkQ4zyxXyg/edit#slide=id.p)]
+* slides [[link](https://docs.google.com/presentation/d/1Ggp7qTv5DMprJZgkwNAF92dvv1Apbx5kYWVKni2ty6w/edit?usp=sharing)]
 
 # Suggested reading
 * [If available] Chapter 4 of **Fundamentals of Machine Learning for Predictive Data Analytics** by John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy
