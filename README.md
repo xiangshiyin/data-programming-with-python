@@ -24,7 +24,7 @@
   * Released October 2022
   * Publisher(s): O'Reilly Media, Inc.
   * ISBN: 9781098125974
-* An Introduction to Statistical Learning, with Application in Python
+* **An Introduction to Statistical Learning, with Application in Python** (new book)
   * Published July 5, 2023 [[link](https://hastie.su.domains/)]
   * The lab section of each chapter is implemented in Python. The resources link on the book homepage www.statlearning.com provides jupyter notebooks of these labs as well [[resources](https://www.statlearning.com/resources-python)]
 
