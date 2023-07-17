@@ -14,5 +14,6 @@
 |   07    | 2023-06-26 | Statistics with Python                               | [link](./2023-06-28/) |
 |   08    | 2023-07-03 | Data Visualization                                   | [link](./2023-07-03/) |
 |   09    | 2023-07-05 | Data Visualization and Regression Analysis           | [link](./2023-07-05/) |
-|   09    | 2023-07-05 | Introduction to Basic Machine Learning Modeling (p1) | [link](./2023-07-10/) |
-|   09    | 2023-07-05 | Introduction to Basic Machine Learning Modeling (p2) | [link](./2023-07-12/) |
+|   10    | 2023-07-10 | Introduction to Basic Machine Learning Modeling (p1) | [link](./2023-07-10/) |
+|   11    | 2023-07-12 | Introduction to Basic Machine Learning Modeling (p2) | [link](./2023-07-12/) |
+|   12    | 2023-07-17 | Information Based Learning                           | [link](./2023-07-17/) |
