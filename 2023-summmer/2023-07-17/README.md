@@ -23,3 +23,6 @@ Here are the topics we are going to cover
   * Released October 2022
   * Publisher(s): O'Reilly Media, Inc.
   * ISBN: 9781098125974
+* Online Resources
+  * Classification and regression trees for machine learning [[link](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)]
+  * Implement a decision tree model [[link](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)]
