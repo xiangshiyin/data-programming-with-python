@@ -9,8 +9,8 @@
 
 ## Topics
 Here are the topics we are going to cover
-* Continue with the California housing modeling problem
 * Brief introduction to decision tree and tree based models
+* Code demo on the application of tree based machine learning models
 
 ## Course materials
 * slides [[link](https://docs.google.com/presentation/d/1Ggp7qTv5DMprJZgkwNAF92dvv1Apbx5kYWVKni2ty6w/edit#slide=id.p)]
