@@ -1,0 +1,327 @@
+
+\documentclass{article}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{footnote}
+\usepackage{tablefootnote}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\makesavenoteenv{tabular}
+
+
+\title{
+	MSA 8010: Data Programming (Section 003)\\
+	\large Syllabus for Fall 2023
+}
+\author{Instructor: Xiangshi Yin\thanks{Email: \href{mailto:xyin@gsu.edu}{xyin@gsu.edu}}}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+
+\section{Description}
+This course introduces common Python programming practices for data analysis. The objective is to prepare students with programming skills to tackle large data analysis projects.
+
+
+\subsection{Instructor}
+\begin{center}
+  \begin{tabular}{ l | c r }
+    \hline			
+    Name & Xiangshi Yin\\
+    Email & \href{mailto:xyin@gsu.edu}{xyin@gsu.edu}\\
+    \hline  
+  \end{tabular}
+\end{center}
+
+\subsection{Teaching Assistant}
+\begin{center}
+	\begin{tabular}{ l | c r }
+		\hline			
+		Name & Dixsha Mahna\\
+		Email & dmahana1@gsu.edu\\
+		\hline  
+	\end{tabular}
+\end{center}
+
+\subsection{Lectures}
+We meet on every Tuesday evening at 7:15 PM (Eastern Time).
+\begin{center}
+  \begin{tabular}{ l | c r }
+    \hline			
+    Days & Tuesday\\
+   Time & 7:15 PM - 9:45 PM (Eastern Time) \\
+    Room & GSU Buckhead Executive Ed Ctr \textbf{Room: 1215}\\
+    \hline  
+  \end{tabular}
+\end{center}
+\begin{flushleft}
+To access the class materials online, you need to:
+\begin{itemize}
+  \item Go to the class home page on iCollege at \url{https://gastate.view.usg.edu/d2l/home/2886149}
+  \item Homework assignments and quizzes will be posted
+  \item Please follow the announcements page for any course udpates
+\end{itemize}
+\end{flushleft}
+
+
+\subsection{Office Hours}
+\begin{center}
+  \begin{tabular}{ l | c r }
+    \hline			
+    Days & Tuesday\\
+    Type & By Appointment\\
+    Time & TBD\footnote{Will be available in week 2} \\
+    Room & TBD\footnote{Most likely in the hoteling office of the Buckhead building, will confirm before week 2}\\
+    \hline  
+  \end{tabular}
+\end{center}
+\begin{flushleft}
+There is a 30 minutes session available every Tuesday before our regular classes. To book the time on calendar, you need to:
+  \begin{itemize}
+    \item Use this link \url{https://outlook.office.com/bookwithme/user/ba5e4b49e7d9445daf7923151dd343c6@gsu.edu?anonymous&ep=plink}
+    \item Choose the preferred time slot
+  \end{itemize}
+\end{flushleft}
+
+
+\subsection{Contact the instructor}
+During the term, it is highly recommended that you contact the instructor, via scheduled office hours or via email. They are available to help you focus your projects, gain access to resources, and answer your questions. Please try to contact them at least once during the term to discuss your project. Your class members are also a good source of help.
+
+
+\subsection{Course Web-site}
+Class information will be posted on the \href{https://icollege.gsu.edu/}{iCollege} site. There will be links to other web-sites with course related material.
+
+
+\section{Overview}
+The goal of this course is to prepare students with Python programming skills to handle data analysis projects. In the first half of the course, we'll cover topics on basic Python coding skills, and tools for common use cases of data analytics and business reporting. In the second half of the course, we'll be talking about some advance topics on machine learning modeling from the application perspective with Python programming.
+
+\subsection{Intended audience}
+The course is aimed to students who are beginners in programming and Python language. Basic knowledge on Statistics and Linear Algebra would be helpful to understand the machine learning topics we'll be talking about in the second half of the course.
+
+
+\subsection{Learning objectives}
+Upon successful completion of this course, you will accomplish the following objectives and outcomes. In particular, students who complete this course will gain “Ready for work” skills, including:\\
+\begin{itemize}
+  \item Explore, analyze and manipulate data sets
+  \item Prepare features sets for modeling
+  \item Apply machine learning tools and techniques
+  \item Interpret and present results
+\end{itemize}
+
+
+\section{Schedule}
+The course schedule is shown below. However, the topics and readings may change according to the interests and abilities of the class. Please refer to course content page on \href{https://gastate.view.usg.edu/d2l/home/2822689}{iCollege} for most updated lecture guidelines.  Materials may be updated 24 hours prior to class; please check before attending class.
+
+\begin{center}
+%\begin{table}[]
+\begin{tabular}{lllll}
+\hline
+Session & Date  & Topic                                 & Reading \\
+\hline
+01       & 2023-08-22 & Python Crash Course (p1)              & PDA\footnote{Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter} Chapter 1-3\\
+02       & 2023-08-29 & Python Crash Course (p2)              & PDA Chapter 3\\
+03       & 2023-09-05 & Python Crash Course (p3)              & PDA Chapter 3\\
+04       & 2023-09-12 & Numpy and Linear Algebra              & PDA Chapter 4\\
+05       & 2023-09-19 & Pandas and Dataframe                  & PDA Chapter 5\\
+06       & 2023-09-26 & Pandas Data Table Exercise            & PDA Chapter 6-8\\
+07       & 2023-10-03 & Statistics with Python                & PDA Chapter 6-8\\
+08       & 2023-10-10 & Data Visualization                    & PDA Chapter 9\\
+09       & 2023-10-17 & Data Visualization and Regression Analysis & HML\footnote{Hands-On Machine Learning with Scikit-Learn and TensorFlow} Chapter 1, FML\footnote{Fundamentals of Machine Learning for Predictive Data Analysis} Chapter 2\&8\\
+10       & 2023-10-24 & Introduction to Machine Learning (p1) & HML Chapter 2, FML Chapter 3\\
+11       & 2023-10-31 & Introduction to Machine Learning (p2) & HML Chapter 6-7, FML Chapter 4\\
+12       & 2023-11-07 & Information based learning            & FML Chapter 4\\
+13       & 2023-11-14 & Unsupervised Learning Model           & HML Chapter 9, FML Chapter 6\\
+14       & 2023-09-19 & \textit{Thanksgiving Break} (\textbf{No Classes})                & N/A\\
+15       & 2023-11-21 & Project Presentation                  &N/A\\
+\hline        
+\end{tabular}
+%\end{table}
+\end{center}
+
+
+\section{Readings}
+\subsection{Books}
+\textbf{Primary Textbook}:
+  \begin{itemize}
+    \item \textbf{Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter} 3rd Edition by Wes McKinney
+    \begin{itemize}
+        \item Released August 2022
+        \item Publisher(s): O'Reilly Media, Inc.
+        \item ISBN: 9781098104030
+    \end{itemize}  
+  \end{itemize}
+  \begin{itemize}
+  	\item \textbf{Hands-On Machine Learning with Scikit-Learn and TensorFlow} O'Reilly Media, 3rd Edition by Aurélien Géron
+  	\begin{itemize}
+        \item Released October 2022
+        \item Publisher(s): O'Reilly Media, Inc.
+        \item ISBN: 9781098125974
+    \end{itemize}
+  \end{itemize}
+  \begin{itemize}
+    \item \textbf{Fundamentals of Machine Learning for Predictive Data Analytics} by John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy
+    \begin{itemize}
+        \item Hardcover: ISBN 9780262029445, 624 pp., July 2015
+        \item eBook: ISBN 9780262331722, 624 pp., July 2015
+    \end{itemize} 
+  \end{itemize}
+
+\subsection{Other books and resources}
+  \begin{itemize}
+  	\item Fabrizio Romano  \textit{Learning Python: Learn to code like a professional with Python - an open source, versatile, and powerful programming language} Packt Publishing, 2015.
+  	\item Charles Severance \textit{Python for Everybody: Exploring Data in Python 3} CreateSpace Independent Publishing Platform, 2016 
+    \item Joel Grus \textit{Data Science from Scratch: First Principles with Python} O'Reilly Media, 2015.
+    \item Foster Provost \textit{Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking} O'Reilly Media, 2013.
+    \item \textit{An Introduction to Statistical Learning, with Application in Python} \url{https://hastie.su.domains/}
+    \item Technical blogs posted on \url{www.medium.com}.
+    \item Last but not least, \href{www.google.com}{Google} and \href{www.stackoverflow.com}{StackOverflow} are always your BEST FRIENDS to learn special coding skills.
+  \end{itemize}
+
+
+\section{Software}
+\begin{itemize}
+	\item All programming activities will be performed on the your own laptop. Your laptop should have Python 3 and Jupyter Notebook installed. Using the Anaconda installation (\url{https://www.anaconda.com/products/individual}) is a good start to have most of the packages we need for the class in one shot. Detailed installation instructions will be posted on the class home page on \href{https://gastate.view.usg.edu/d2l/home/2822689}{iCollege}.
+	\item If you are interested to explore new tools, you could also try Google Colab (\url{colab.research.google.com}). It is an online Jupyter Notebook environment with Python and free computing resources backed by Google. You may need to install certain packages yourselves if they are not available in the notebook environment.
+\end{itemize}
+
+\section{Homework/Quizzes/Final Project}
+There will be 5 quizzes, 5 home assignments, and 1 final group project over the whole semster. Detailed due dates are listed below.
+\begin{center}
+	\begin{tabular}{lllll}
+		\hline
+		Date & Note & Quiz & Homework & Quizz/Homework Due(EST) \\
+		\hline
+		2023-08-22 & First Class & Y &  & 2023-08-29 19:15 \\
+    2023-08-29 &  &  & Y & 2023-09-05 19:15 \\
+    2023-09-05 &  & Y &   & 2023-09-12 19:15 \\
+    2023-09-12 &  &  & Y &  2023-09-19 19:15\\
+    2023-09-19 &  & Y &  & 2023-09-26 19:15 \\
+    2023-09-26 & Team assigned &  & Y & 2023-10-03 19:15 \\
+    2023-10-03 & Team finalized  & Y &  & 2023-10-10 19:15 \\
+    2023-10-10 & Suggested project topics &  & Y & 2023-10-17 19:15 \\
+    2023-10-17 &  & Y &  & 2023-10-24 19:15 \\
+    2023-10-24 & Project topics finalized &  & Y & 2023-10-31 19:15 \\
+    2023-10-31 &  &  &  &  N/A\\
+    2023-11-07 &  &  &  &  N/A\\
+    2023-11-14 &  &  &  &  N/A\\
+    2023-11-21 & Thanksgiving Break (\textbf{No Classes})  &  &  &  N/A\\
+		2023-11-28 & Project Presentation &  &  & 2023-12-08 23:59\\
+		\hline        
+	\end{tabular}
+\end{center}
+
+
+
+\subsection{Homework}
+Homework assignments are the continuation of a hands-on activities in class. Detailed information about the activity and expectation for successful completion are provided with the instructions. See the web site for the most recent and detailed information on these assignments. \textbf{Homeworks are individual assignments!} You may discuss the assignment with your classmates, but your ﬁnal answers should reﬂect your individual eﬀort. Completed assignments must be uploaded\footnote{Instructions on homework submission will be posted on the class home page on iCollege} by the deadline.
+
+
+\subsection{Quizzes}
+Quizzes will be given out every 2-3 weeks after the class and comprise only a few questions. However, some questions may need some thinking and calculations.
+
+
+\subsection{Final Group Project}
+The project has to showcase a subset of the methods and tools that are introduced in this course. Teams can comprise up to 2 students, and should form within the ﬁrst few weeks of the term. \textbf{Teams are free to choose a data set for their project} (the instructor will also release a list of suggested topics as a reference). The use of proprietary or classiﬁed data sets is not allowed. \textbf{Project deliverables include a detailed report, functioning code, and a presentations.} Details about requirements and evaluation criteria will be posted on the class homepage on iCollege.\\
+\\
+Key dates to remember (also marked in the schedule of the previous page):\\
+\begin{itemize}
+	\item 2023-09-26: Project teams will be assigned\footnote{The instructor will assign students into project teams}
+	\item 2023-10-03: Project team will be finalized\footnote{Exception: you may withdraw from a team at any time afterwards and submit the project assignment individually.}
+	\item 2023-10-10: The instructor will release a list of suggested project topics
+	\item 2023-10-24: Team leads need to submit their teams' choice on final project topics
+	\item 2023-11-28: Final project presentation
+	\item 2023-12-08: Report and code due
+\end{itemize}
+
+\begin{flushleft}
+	\textbf{Teams will submit one assignment for all team members. In most cases, each member of the team will get the same score. Each team assignment must also include a list of tasks completed by each member.}
+\end{flushleft}
+
+
+\section{Evaluation}
+Students will be evaluted by the deliverables summarized below:\\
+\begin{center}
+	\begin{tabular}{lcr}
+		\hline
+		Assignment & Percentage \\
+		\hline
+		Quizzes & 20\%\\
+		Homework & 40\%\\
+		Final Project & 40\%\\
+		\hline
+		Total & 100\%\\   
+		\hline     
+	\end{tabular}
+\end{center}
+
+\begin{center}
+	\begin{tabular}{lcr}
+		\hline
+		Grade & Percentage\\
+		\hline
+		A+ & $\geq$ 97\\
+		A & $\geq$ 90\\
+		A- & $\geq$ 87\\
+		B+ & $\geq$ 83\\
+		B & $\geq$ 80\\
+		B- & $\geq$ 77\\
+		C+ & $\geq$ 73\\
+		C & $\geq$ 70\\
+		C- & $\geq$ 67\\
+		D & $\geq$ 60\\
+		F & $<$ 60\\
+		\hline 
+	\end{tabular}
+\end{center}
+
+
+\section{Workload Expectations}
+Students should plan for 2 - 3 hours of work outside of class each week for each course credit hour. Thus, a 3-credit course averages between 6 and 9 hours of student work outside of the classroom, each week.
+\\
+\\
+\textbf{Arbitration}: There will be a one-week arbitration period after graded activities are returned. Within that one-week period, you are encouraged to discuss any assumptions and/or misinterpretations that you made on the activity that may have inﬂuenced your grade.
+\\
+\\
+\textbf{Attendance}: If you are unable to attend a class session, it is your responsibility to acquire the class notes, assignments, announcements, etc. from a classmate. The instructor will not give private lectures for those that miss class.
+\\
+\\
+\textbf{Submission of Deliverables}: Unless speciﬁc, prior approval is obtained, no deliverable will be accepted after the speciﬁed due date. If you have a legitimate personal emergency (e.g., health problem) that may impair your ability to submit a deliverable on time, you must take the initiative to contact the instructor before the due date/time (or as soon after your emergency as possible) to communicate the situation. 
+
+
+\section{Student Behavior}
+Behavior in class should be professional at all times. People must treat each other with dignity and respect in order for scholarship to thrive. Behaviors that are disruptive to learning will not be tolerated and may be referred to the Oﬃce of the Dean of Students for disciplinary action.
+
+\subsection{Discrimination and harassment}
+Discrimination and/or harassment will not be tolerated in the classroom. In most cases, discrimination and/or harassment violates Federal and State laws and/or University Policies and Regulations. Intentional discrimination and/or harassment will be referred to the Aﬃrmative Action Oﬃce and dealt with in accordance with the appropriate rules and regulations. Unintentional discrimination and/or harassment is just as damaging to the oﬀended party. But, it usually results from people not understanding the impact of their remarks or actions on others, or insensitivity to the feelings of others. We must all strive to work together to create a positive learning environment. This means that each individual should be sensitive to the feelings of others, and tolerant of the remarks and actions of others. If you ﬁnd the remarks and actions of another individual to be oﬀensive, please bring it to their attention. If you believe those remarks and actions constitute intentional discrimination and/or harassment, please bring it to my attention.
+
+\subsection{Official department class policies}
+\begin{itemize}
+	\item Students are expected to attend all classes and group meetings, except when precluded by emergencies, religious holidays, or bona ﬁde extenuating circumstances.
+	\item Students who, for non-academic reasons beyond their control, are unable to meet the full requirements of the course should notify the instructor, by email, as soon as this is known and prior to the class meeting. Incompletes may be given if a student has ONE AND ONLY ONE outstanding assignment.
+	\item A “W” grade will be assigned if a student withdraws before mid-semester if (and only if) he/she has maintained a passing grade up to the point of withdrawal. Withdrawals after the mid-semester date will result in a grade of “WF”. See the GSU catalog or registrar’s oﬃce for details.
+	\item Spirited class participation is encouraged and informed discussion in class is expected. This requires completing readings and assignments before class.
+	\item All exams and individual assignments are to be completed by the student alone with no help from any other person.
+	\item Collaboration within groups is encouraged for project work. However, collaboration between project groups will be considered cheating.
+	\item Copying work from the Internet without a proper reference is considered plagiarism and subject to disciplinary action as delineated in the GSU Student Handbook.
+	\item Any non-authorized collaboration will be considered cheating and the student(s) involved will have an Academic Dishonesty charge completed by the instructor and placed on ﬁle in the Dean’s oﬃce and the CIS Department. All instructors regardless of the type of assignment will apply this Academic Dishonesty policy equally to all students. Abstracted from GSU’s Student Handbook Student Code of Conduct “Policy on Academic Honesty and Procedures for Resolving Matters of Academic Honesty” (\url{https://codeofconduct.gsu.edu/})
+	
+\end{itemize}
+\begin{flushleft}
+	As members of the academic community, students are expected to recognize and uphold standards of intellectual and academic integrity. The University assumes as a basic and minimum standard of conduct in academic matters that students be honest and that they submit for credit only the products of their own eﬀorts. Both the ideals of scholarship and the need for fairness require that all dishonest work be rejected as a basis for academic credit. They also require that students refrain from any and all forms of dishonorable or unethical conduct related to their academic work.
+\end{flushleft}
+Students are expected to discuss with faculty the expectations regarding course assignments and standards of conduct. Here are some examples and deﬁnitions that clarify the standards by which academic honesty and academically honorable conduct are judged at GSU.\\
+\\
+\textbf{Plagiarism}. Plagiarism is presenting another person’s work as one’s own. Plagiarism includes any paraphrasing or summarizing of the works of another person without acknowledgment, including the submitting of another student’s work as one’s own. Plagiarism frequently involves a failure to acknowledge in the text, notes, or footnotes the quotation of the paragraphs, sentences, or even a few phrases written or spoken by someone else. The submission of research or completed papers or projects by someone else is plagiarism, as is the unacknowledged use of research sources gathered by someone else when that use is speciﬁcally forbidden by the faculty member. Failure to indicate the extent and nature of one’s reliance on other sources is also a form of plagiarism. Any work, in whole or part, taken from the Internet or other computer based resource without properly referencing the source (for example, the URL) is considered plagiarism. A complete reference is required in order that all parties may locate and view the original source. Finally, there may be forms of plagiarism that are unique to an individual discipline or course, examples of which should be provided in advance by the faculty member. The student is responsible for understanding the legitimate use of sources, the appropriate ways of acknowledging academic, scholarly or creative indebtedness, and the consequences of violating this responsibility.\\
+\\
+\textbf{Cheating on Examinations}. Cheating on examinations involves giving or receiving unauthorized help before, during, or after an examination. Examples of unauthorized help include the use of notes, texts, or “crib sheets” during an examination (unless speciﬁcally approved by the faculty member), or sharing information with another student during an examination (unless speciﬁcally approved by the faculty member). Other examples include intentionally allowing another student to view one’s own examination and collaboration before or after an examination if such collaboration is speciﬁcally forbidden by the faculty member. Unauthorized Collaboration. Submission for academic credit of a work product, or a part thereof, represented as its being one’s own eﬀort, which has been developed in substantial collaboration with another person or source or with a computer-based resource is a violation of academic honesty. It is also a violation of academic honesty knowingly to provide such assistance. Collaborative work speciﬁcally authorized by a faculty member is allowed.\\
+\\
+\textbf{Falsiﬁcation}. It is a violation of academic honesty to misrepresent material or fabricate information in an academic exercise, assignment or proceeding (e.g., false or misleading citation of sources, the falsiﬁcation of the results of experiments or of computer data, false or misleading information in an academic context in order to gain an unfair advantage).\\
+\\
+\textbf{Multiple Submissions}. It is a violation of academic honesty to submit substantial portions of the same work for credit more than once without the explicit consent of the faculty member(s) to whom the material is submitted for additional credit. In cases in which there is a natural development of research or knowledge in a sequence of courses, use of prior work may be desirable, even required; however the student is responsible for indicating in writing, as a part of such use, that the current work submitted for credit is cumulative in nature.
+
+
+\end{document}
