@@ -8,15 +8,17 @@
 
 ## Topics
 Here are the topics we are going to cover
-* High level overview of the course
-* Coding environment set up and demo
+* [x] High level overview of the course
+* [x] Coding environment set up and demo
   * Follow the [instructions](../../docs/code_environment.md) to get the coding environment setup before our class
   * Past video demo: [Lauching Jupyter](https://www.youtube.com/watch?v=MuCePGhLI9A)
-* Python basics
-  * Basic data structures
-* Application topic
-  * Different ways to execute a python program
-  * Python libraries
+* [x] Python basics
+  * Basic data structures (we only get to cover `numeric` and `string` types)
+* [x] Application topic
+  * [x] Different ways to execute a python program
+  * ~~Python libraries~~ (we didn't get time to cover)
+
+We won't have a quiz this week. Instead, I'd like you to review the notebook we ran in our class, reading through Chapter 1-3 of the book **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** listed below, and maybe also test some of the code examples listed in the book to make sure you understand the most part. We'll find time in our next class to catch up the topics.
 
 ## Course materials
 * slides [[link](https://docs.google.com/presentation/d/1IbpyeIdcgtOqUHZ9QJZjFL8NQQ6dqbB1W7-p0QfTrZI/edit?usp=sharing)]
