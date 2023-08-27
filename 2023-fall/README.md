@@ -5,3 +5,4 @@
 | Session |    Date    | Topic                    | Materials             |
 | :-----: | :--------: | ------------------------ | --------------------- |
 |   01    | 2023-08-22 | Python Crash Course (p1) | [link](./2023-08-22/) |
+|   02    | 2023-08-29 | Python Crash Course (p2) | [link](./2023-08-29/) |
