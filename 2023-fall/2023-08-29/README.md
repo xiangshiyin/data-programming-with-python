@@ -9,18 +9,18 @@
 
 ## Topics
 We will continue with the Python language basics in our class, here are the topics
-* [ ] Primitive data types
-  * [ ] Numbers
-  * [ ] Strings
-  * [ ] Boolean
-* [ ] Non-primitive data types
-  * [ ] List
-  * [ ] Tuple
-  * [ ] Set
-  * [ ] Dictionary
-* [ ] Control flows
-  * [ ] Conditional statements
-  * [ ] Loops
+* [x] Primitive data types
+  * [x] Numbers
+  * [x] Strings
+  * [x] Boolean
+* [x] Non-primitive data types
+  * [x] List
+  * [x] Tuple
+  * [x] Set
+  * [x] Dictionary
+* ~~[ ] Control flows~~ (didn't get time to cover)
+  * ~~[ ] Conditional statements~~
+  * ~~[ ] Loops~~
 
 ## Concepts
 * Common arithmetic oeprations with numbers
