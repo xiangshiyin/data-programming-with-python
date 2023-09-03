@@ -14,9 +14,15 @@ We will continue with the Python language basics in our class, here are the topi
   * [ ] Loops
     * [ ] `while` loop
     * [ ] `for` loop
+    * [ ] List comprehension
+    * [ ] Iterate through different Python data types
 * [ ] Indentations in Python
 * [ ] Functions
+  * [ ] Create a function in Python
+  * [ ] Use a function in Python
+  * [ ] Common built-in functions in Python
 * [ ] Class and objects
+* [ ] Files and I/O
 * [ ] Hands-on practices
 
 ## Concepts
