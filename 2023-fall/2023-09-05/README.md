@@ -9,21 +9,21 @@
 
 ## Topics
 We will continue with the Python language basics in our class, here are the topics
-* [ ] Control flows
-  * [ ] Conditional statements
-  * [ ] Loops
-    * [ ] `while` loop
-    * [ ] `for` loop
+* [x] Control flows
+  * [x] Conditional statements
+  * [x] Loops
+    * [x] `while` loop
+    * [x] `for` loop
     * [ ] List comprehension
     * [ ] Iterate through different Python data types
-* [ ] Indentations in Python
-* [ ] Functions
-  * [ ] Create a function in Python
-  * [ ] Use a function in Python
+* [x] Indentations in Python
+* [x] Functions
+  * [x] Create a function in Python
+  * [x] Use a function in Python
   * [ ] Common built-in functions in Python
 * [ ] Class and objects
 * [ ] Files and I/O
-* [ ] Hands-on practices
+* [x] Hands-on practices
 
 ## Concepts
 * Similarities between `set` and `dictionary`
