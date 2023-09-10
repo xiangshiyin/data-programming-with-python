@@ -166,4 +166,8 @@ Here are the topics we are going to cover
   * Publisher(s): O'Reilly Media, Inc.
   * ISBN: 9781098104030
 * Online resources
-  * TBD
+  * `list comprehension` [[reference](https://www.w3schools.com/python/python_lists_comprehension.asp)]
+  * Python built-in functions 
+    * [official doc](https://docs.python.org/3/library/functions.html)
+    * [Online reference](https://www.w3schools.com/python/python_ref_functions.asp)
+  * 
