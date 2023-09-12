@@ -18,6 +18,10 @@ Here are the topics we are going to cover
     * [ ] Common built-in functions in Python (exploration topic, will cover later)
   * [ ] Class and objects
   * [ ] Files and I/O
+* [ ] Numpy and Linear Algebra
+  * Numpy Array Indexing
+  * Numpy Array Operations
+  * Linear Algebra with Numpy
 
 ## Concepts
 * `Indentation` in Python
@@ -170,4 +174,5 @@ Here are the topics we are going to cover
   * Python built-in functions 
     * [official doc](https://docs.python.org/3/library/functions.html)
     * [Online reference](https://www.w3schools.com/python/python_ref_functions.asp)
-  * 
+  * Numpy quickstart [[link](https://numpy.org/doc/stable/user/quickstart.html)]
+  * Numpy: the absolute basics for beginners [[link](https://numpy.org/doc/stable/user/absolute_beginners.html)]
