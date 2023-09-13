@@ -9,16 +9,16 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Python basics wrapup
-  * [ ] Control flows
-      * [ ] Iterate through different Python data types
-      * [ ] List comprehension (exploration topic)
-  * [ ] Functions
-    * [ ] Different forms of function definition and calling
-    * [ ] Common built-in functions in Python (exploration topic, will cover later)
-  * [ ] Class and objects
-  * [ ] Files and I/O
-* [ ] Numpy and Linear Algebra
+* [x] Python basics wrapup
+  * [x] Control flows
+      * [x] Iterate through different Python data types
+      * [x] List comprehension (exploration topic)
+  * [x] Functions
+    * [x] Different forms of function definition and calling
+    * [x] Common built-in functions in Python (exploration topic, will cover later)
+  * ~~[ ] Class and objects~~ (skipped)
+  * ~~[ ] Files and I/O~~ (skipped)
+* [x] Numpy and Linear Algebra
   * Numpy Array Indexing
   * Numpy Array Operations
   * Linear Algebra with Numpy
