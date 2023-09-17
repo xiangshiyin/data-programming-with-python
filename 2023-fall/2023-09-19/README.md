@@ -1,17 +1,20 @@
 **Table of Content**
-- [Lecture 05: Pandas and Data Frame](#lecture-05-pandas-and-data-frame)
+- [Lecture 05: Pandas and DataFrame](#lecture-05-pandas-and-dataframe)
   - [Topics](#topics)
   - [Concepts](#concepts)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 
-# Lecture 05: Pandas and Data Frame
+# Lecture 05: Pandas and DataFrame
 
 ## Topics
 Here are the topics we are going to cover
 * [ ] Python basics (extended topic)
   * [ ] Class and objects
   * [ ] Files and I/O
+* [ ] `pandas` and `dataframe`
+  * [ ] Create a `pandas` dataframe (from hard-coded information, csv, excel spreadsheet, etc.)
+  * [ ] Manipulate a `pandas` dataframe
 
 
 ## Concepts
@@ -109,6 +112,23 @@ Here are the topics we are going to cover
     * We created a **class** `table` to represent a group of **objects** - tables
     * All table **objects** of the **class** `table` share some common **properties** and **functions**
     * Different **objects** might have different values for the same **attribute**
+  * With a blueprint of **class**, we could create an **object** or an instance out of it, which people normally call *instantiating a class*.
+* File I/O
+  * Major tool/function: `open(file, mode)` (https://docs.python.org/3/library/functions.html#open)
+  * The default mode is `'r'` (open for reading text, synonym of `'rt'`). The available modes:
+    | Character | Meaning                                                         |
+    | --------- | --------------------------------------------------------------- |
+    | 'r'       | open for reading (default)                                      |
+    | 'w'       | open for writing, truncating the file first                     |
+    | 'x'       | open for exclusive creation, failing if the file already exists |
+    | 'a'       | open for writing, appending to the end of the file if it exists |
+    | 'b'       | binary mode                                                     |
+    | 't'       | text mode (default)                                             |
+    | '+'       | open for updating (reading and writing)                         |
+* `pandas` - the library
+  * It contains data structures and data manipulation tools designed to make data cleaning and analysis fast and convenient in Python.
+  * `pandas` adopts significant parts of NumPy’s idiomatic style of array-based computing, especially array-based functions and a preference for data processing without for loops.
+* 
 
 ## Course materials
 * slides [[link](TBD)]

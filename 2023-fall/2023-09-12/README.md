@@ -66,7 +66,7 @@ Here are the topics we are going to cover
     ```python
     variable_a = function_name(param1_value, param2_value, ..., paramN_value)
     ```
-* `Object` vs. `Class` - Example: Describe a table
+* ~~`Object` vs. `Class` - Example: Describe a table~~ (skipped)
   * How do you describe a table?
   ```mermaid
   classDiagram
