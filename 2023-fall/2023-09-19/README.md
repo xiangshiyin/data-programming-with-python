@@ -140,3 +140,4 @@ Here are the topics we are going to cover
   * `pandas` user guide [[link](https://pandas.pydata.org/docs/user_guide/index.html)]
   * 10 mins to `pandas` [[link](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#)]
   * Time series data in `pandas` [[link](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#time-series)]
+  * `Merge` and `Join` in `pandas` [[link](https://pandas.pydata.org/docs/user_guide/merging.html)]
