@@ -128,7 +128,20 @@ Here are the topics we are going to cover
 * `pandas` - the library
   * It contains data structures and data manipulation tools designed to make data cleaning and analysis fast and convenient in Python.
   * `pandas` adopts significant parts of NumPy’s idiomatic style of array-based computing, especially array-based functions and a preference for data processing without for loops.
-* 
+  * The different ways to select a subset of a dataframe
+
+    | Type                  | Notes                                       |
+    | --------------------- | ------------------------------------------- |
+    | `df[column]`          | Select by column labels                     |
+    | `df.loc[rows]`        | Select by row labels                        |
+    | `df.loc[:, cols]`     | Select by column labels                     |
+    | `df.loc[rows, cols]`  | Select by row and column labels             |
+    | `df.iloc[rows]`       | Select by row positional indices            |
+    | `df.iloc[:, cols]`    | Select by column positional indices         |
+    | `df.iloc[rows, cols]` | Select by row and column positional indices |
+    | `df.at[row, col]`     | Select an element by row and column labels  |
+    | `df.iat[row, col]`    | Select an element by row and column indices |
+
 
 ## Course materials
 * slides [[link](TBD)]
