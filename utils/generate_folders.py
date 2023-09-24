@@ -117,6 +117,10 @@ if __name__ == '__main__':
     create_folder_if_not_exist(args.semester)
     create_folder_if_not_exist(week_dir_path)
     create_folder_if_not_exist(notebook_dir_path)
+    create_file_if_not_exist(
+        file_path=readme_file_path,
+        template=readme_template
+    )
     if args.notebook:
         create_file_if_not_exist(
             file_path=notebook_file_path,
