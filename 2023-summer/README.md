@@ -17,3 +17,5 @@
 |   10    | 2023-07-10 | Introduction to Basic Machine Learning Modeling (p1) | [link](./2023-07-10/) |
 |   11    | 2023-07-12 | Introduction to Basic Machine Learning Modeling (p2) | [link](./2023-07-12/) |
 |   12    | 2023-07-17 | Information Based Learning                           | [link](./2023-07-17/) |
+|   13    | 2023-07-19 | Unsupervised Learning Model                          | [link](./2023-07-19/) |
+|   14    | 2023-07-26 | Final Project Presentation                           | -                     |
