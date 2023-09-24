@@ -9,3 +9,4 @@
 |   03    | 2023-09-05 | Python Crash Course (p3)       | [link](./2023-09-05/) |
 |   04    | 2023-09-12 | Python Basics Wrapup and Numpy | [link](./2023-09-12/) |
 |   05    | 2023-09-19 | Pandas and DataFrame           | [link](./2023-09-19/) |
+|   06    | 2023-09-26 | Pandas Data Table Practices    | [link](./2023-09-26/) |

@@ -1,12 +1,12 @@
 
 **Table of Content**
-- [Lecture XX: The Title](#lecture-xx-the-title)
+- [Lecture 06: Pandas Data Table Practices](#lecture-06-pandas-data-table-practices)
   - [Topics](#topics)
   - [Concepts](#concepts)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 
-# Lecture XX: The Title
+# Lecture 06: Pandas Data Table Practices
 
 ## Topics
 Here are the topics we are going to cover
