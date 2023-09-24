@@ -1,6 +1,34 @@
 import argparse
 import os
 
+readme_template = """
+**Table of Content**
+- [Lecture XX: The Title](#lecture-xx-the-title)
+  - [Topics](#topics)
+  - [Concepts](#concepts)
+  - [Course materials](#course-materials)
+- [Suggested reading](#suggested-reading)
+
+# Lecture XX: The Title
+
+## Topics
+Here are the topics we are going to cover
+* [ ] TBD
+
+
+## Concepts
+* TBD
+
+
+## Course materials
+* slides [[link](TBD)]
+
+# Suggested reading
+* [If available] Chapter X of **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** (3rd Edition by Wes McKinney)
+* Online resources
+  * TBD
+"""
+
 def create_folder_if_not_exist(folder_path):
     if os.path.exists(folder_path) and os.path.isdir(folder_path):
         print(f"Folder {folder_path} already exists.")
@@ -8,12 +36,12 @@ def create_folder_if_not_exist(folder_path):
         os.mkdir(folder_path)
         print(f"Folder {folder_path} created")
 
-def create_file_if_not_exist(file_path):
+def create_file_if_not_exist(file_path, template=''):
     if os.path.exists(file_path) and os.path.isfile(file_path):
         print(f"File {file_path} already exists")
     else:
         with open(file_path, "w") as file:
-            pass
+            file.write(template)
         print(f"File {file_path} created")
 
 
@@ -39,6 +67,9 @@ if __name__ == '__main__':
     create_folder_if_not_exist(args.semester)
     create_folder_if_not_exist(f"./{args.semester.strip('/')}/{args.week.strip('/')}")
     create_folder_if_not_exist(f"./{args.semester.strip('/')}/{args.week.strip('/')}/notebook")
-    create_file_if_not_exist(f"./{args.semester.strip('/')}/{args.week.strip('/')}/README.md")
+    create_file_if_not_exist(
+        file_path=f"./{args.semester.strip('/')}/{args.week.strip('/')}/README.md",
+        template=readme_template
+    )
 
 
