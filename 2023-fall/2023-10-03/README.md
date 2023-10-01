@@ -32,3 +32,6 @@ Here are the topics we are going to cover
   * Documentations:
       * https://docs.scipy.org/doc/scipy/reference/stats.html
       * https://www.statsmodels.org/stable/stats.html
+  * Others:
+    * `df.astype()` function in detail: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html
+    * Lexicographic order: https://en.wikipedia.org/wiki/Lexicographic_order
