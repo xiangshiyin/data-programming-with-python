@@ -10,3 +10,4 @@
 |   04    | 2023-09-12 | Python Basics Wrapup and Numpy | [link](./2023-09-12/) |
 |   05    | 2023-09-19 | Pandas and DataFrame           | [link](./2023-09-19/) |
 |   06    | 2023-09-26 | Pandas Data Table Practices    | [link](./2023-09-26/) |
+|   07    | 2023-10-03 | Statistics with Python         | [link](./2023-10-03/) |
