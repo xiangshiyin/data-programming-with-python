@@ -18,6 +18,7 @@ Here are the topics we are going to cover
   | datetime  | Store both date and time                                                        |
   | timedelta | The difference between two datetime values (as days, seconds, and microseconds) |
   | tzinfo    | Base type for storing time zone information                                     |
+* [ ] Format string used in `strftime()` and `strptime()` [[reference](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)]
 * [ ] 
 
 
