@@ -14,7 +14,7 @@
 * Data source:
   * Official FIFA players dataset hosted on Kaggle [[link](https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database)]
 
-## Project 03: Built a ChatBot with OpenAI's Python API
+## Project 03: Build a ChatBot with OpenAI's Python API
 * **Idea**: Build a program on top of OpenAI's Python APIs of their GPT models to help answer questions on a given or any document
   * Example: Build a program to answer questions about the book "Harry Potter and the Sorcerer's Stone", such as summarizing the book
   * **Some more ideas**:
