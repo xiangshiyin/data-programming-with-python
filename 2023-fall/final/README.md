@@ -45,3 +45,7 @@
         * Background information of the project/dataset/ideas (**Required**)
         * Illustration on the methodologies and findings from the data analysis (**Required**)
         * Each team member's contribution on the project (**Required**)
+
+
+## Suggested topics
+[[Link](./suggested_topics.md)]
