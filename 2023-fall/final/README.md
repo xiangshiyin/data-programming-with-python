@@ -4,7 +4,7 @@
 
 ## Final Project Requirement
 * Who
-    * Team of up to 4 students [[groups](https://docs.google.com/spreadsheets/d/14h3mP0HyN61y7EVzSoOL1G89wi6DEH-tSpAMkMh9Mtk/edit#gid=0)]
+    * Team of up to 4 students
 * What
     * **Solve a data analytics problem with the Python tools and programming**
         * Any dataset that you think is interesting to analyze
