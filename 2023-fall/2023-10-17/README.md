@@ -2,7 +2,7 @@
 **Table of Content**
 - [Lecture 09: Data Visualization in Python](#lecture-09-data-visualization-in-python)
   - [Topics](#topics)
-  - [Concepts](#concepts)
+  - [Reminder](#reminder)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 
@@ -17,8 +17,11 @@ Here are the topics we are going to cover
   * [ ] `seaborn`
 
 
-## Concepts
-* TBD
+## Reminder
+* Once the project topic is decided, please add some basic information about the project [in this spreadsheet](https://docs.google.com/spreadsheets/d/1saqpPBTxzrt3psHvAHib7dluA2XkuX8TGL4W8BB-9Hk/edit?usp=sharing), this include:
+  * Project topic
+  * TL;DR on the problem to solve
+  * Brief description on the dataset you are using
 
 
 ## Course materials
