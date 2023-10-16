@@ -12,3 +12,4 @@
 |   06    | 2023-09-26 | Pandas Data Table Practices                     | [link](./2023-09-26/) |
 |   07    | 2023-10-03 | Statistics with Python                          | [link](./2023-10-03/) |
 |   08    | 2023-10-10 | Time Series Operations and Basic Visualizations | [link](./2023-10-10/) |
+|   09    | 2023-10-17 | Data Visualization in Python                    | [link](./2023-10-17/) |
