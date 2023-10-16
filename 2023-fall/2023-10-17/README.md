@@ -37,7 +37,7 @@ Here are the topics we are going to cover
   * Pandas visualization: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 
 [**Additional reading**]
-* Plotly documentation: https://plotly.com/python/
+* Plotly documentation: https://plotly.com/python/plotly-fundamentals/
     * Getting Started with Plotly in Python: https://plotly.com/python/getting-started/
 * Bokeh documentation: https://docs.bokeh.org/en/latest/index.html
     * Quick tutorial: [[link](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)]
