@@ -13,3 +13,4 @@
 |   07    | 2023-10-03 | Statistics with Python                          | [link](./2023-10-03/) |
 |   08    | 2023-10-10 | Time Series Operations and Basic Visualizations | [link](./2023-10-10/) |
 |   09    | 2023-10-17 | Data Visualization in Python                    | [link](./2023-10-17/) |
+|   10    | 2023-10-24 | Data Visualization and Regression Analysis      | [link](./2023-10-24/) |
