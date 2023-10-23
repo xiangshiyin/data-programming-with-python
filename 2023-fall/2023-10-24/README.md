@@ -10,7 +10,10 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] TBD
+* [ ] Python visualization tools
+  * [ ] `Seaborn`
+  * [ ] `Plotly`
+* [ ] Regression Analysis with examples
 
 
 ## Concepts
@@ -19,15 +22,21 @@ Here are the topics we are going to cover
   * While you can be productive using only `seaborn` functions, full customization of your graphics will require some knowledge of `matplotlib`’s concepts and API. One aspect of the learning curve for new users of `seaborn` will be knowing when dropping down to the `matplotlib` layer is necessary to achieve a particular customization. On the other hand, users coming from `matplotlib` will find that much of their knowledge transfers.
   * `Matplotlib` has a comprehensive and powerful API; just about any attribute of the figure can be changed to your liking. A combination of `seaborn`’s high-level interface and `matplotlib`’s deep customizability will allow you both to quickly explore your data and to create graphics that can be tailored into a publication quality final product.
 * Datasets `seaborn` can work with [[official doc](https://seaborn.pydata.org/tutorial/data_structure.html)]
-* 
 
 
 ## Course materials
 * slides [[link](TBD)]
 
 # Suggested reading
-* [If available] Chapter X of **Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter** (3rd Edition by Wes McKinney)
+* [If available] Chapter 2 of **Hands-On Machine Learning with Scikit-Learn and TensorFlow** O’Reilly Media, 3rd Edition by Aur´elien G´eron
+  * Released October 2022
+  * Publisher(s): O'Reilly Media, Inc.
+  * ISBN: 9781098125974
+* [If available] Chapter 3 of **Fundamentals of Machine Learning for Predictive Data Analytics** by John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy
+  * Hardcover: ISBN 9780262029445, 624 pp., July 2015
+  * eBook:  ISBN 9780262331722, 624 pp., July 2015
 * Online resources
+  * Linear regression with `scikit-learn` [[doc](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn-linear-model-linearregression)]
   * `Seaborn` related
     * Introduction to `seaborn` [[link](https://seaborn.pydata.org/tutorial/introduction.html)]
     * Visualizing statistical relationships [[link](https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial)]
