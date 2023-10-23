@@ -33,3 +33,5 @@ Here are the topics we are going to cover
     * Visualizing statistical relationships [[link](https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial)]
     * `Seaborn`'s example gallery [[link](https://seaborn.pydata.org/examples/index.html)]
     * `Seaborn` functions overview [[link](https://seaborn.pydata.org/tutorial/function_overview.html)]
+  * `plotly` related
+    * `plotly-express` introduction [[link](https://plotly.com/python/plotly-express/)]
