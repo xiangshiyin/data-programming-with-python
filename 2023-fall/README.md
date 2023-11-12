@@ -15,4 +15,6 @@
 |   09    | 2023-10-17 | Data Visualization in Python                       | [link](./2023-10-17/) |
 |   10    | 2023-10-24 | Data Visualization and Regression Analysis         | [link](./2023-10-24/) |
 |   11    | 2023-10-31 | Introduction to Basic Predictive Learning Modeling | [link](./2023-10-31/) |
-|   12    | 2023-10-31 | Predictive Modeling and Information Based Learning | [link](./2023-11-07/) |
+|   12    | 2023-11-07 | Predictive Modeling and Information Based Learning | [link](./2023-11-07/) |
+|   13    | 2023-11-14 | Information Based Learning (continued)             | [link](./2023-11-14/) |
+|   14    | 2023-11-28 | Final Project Presentation                         | [link](./final)       |
