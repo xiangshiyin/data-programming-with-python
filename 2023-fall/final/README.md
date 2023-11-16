@@ -49,3 +49,6 @@
 
 ## Suggested topics
 [[Link](./suggested_topics.md)]
+
+## Grading standard
+[[link](./rubrics.pdf)]
