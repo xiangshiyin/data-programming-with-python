@@ -51,4 +51,5 @@
 [[Link](./suggested_topics.md)]
 
 ## Grading standard
-[[link](./rubrics.pdf)]
+- Part I: [[link](./rubrics.pdf)]
+- Part II: [[link](./rubrics_plus.md)]
